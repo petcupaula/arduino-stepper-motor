@@ -12,3 +12,8 @@ Wiring diagram - control stepper motor using a rotary encoder with built-in push
 Wiring diagram - control stepper motor using a rotary encoder and 2 limit switches:
 
 <img src="arduino_stepper_A4988_encoder_switches_bb.png" width="800">
+
+Wiring diagram - control multiple stepper motors:
+
+<img src="arduino_multiple_steppers_bb.png" width="800">
+
