@@ -1,9 +1,13 @@
 # arduino-stepper-motor
 Scripts to use for controlling stepper motors
 
-Wiring diagram - basic setup:
+Wiring diagram - basic setup, with an A4988 driver:
 
 <img src="arduino_stepper_A4988_bb.png" width="800">
+
+Wiring diagram - basic setup, with a DRV8825 driver:
+
+<img src="arduino_stepper_DRV8825_bb.png" width="800">
 
 Wiring diagram - control stepper motor using a rotary encoder with built-in push button:
 
