@@ -43,7 +43,7 @@ void demo1() {
 
 void demo2() {
   // Set the target position:
-  stepper.moveTo(0000);
+  stepper.moveTo(1000);
   // Run to target position with set speed and acceleration/deceleration:
   stepper.runToPosition();
   
@@ -61,8 +61,8 @@ void demo2() {
 }
 
 void loop() {
-  //demo1();
-  //delay(2000);
+  demo1();
+  delay(2000);
   demo2();
   delay(2000);
 }
